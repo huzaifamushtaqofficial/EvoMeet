@@ -11,7 +11,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "StreamTalk",
+  title: "EverMeet",
   description: "Let's Connect Everywhere",
   icons: {
     icon: "/icons/logo.svg",
