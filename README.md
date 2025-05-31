@@ -20,7 +20,7 @@ EvoMeet is a powerful video conferencing and online meeting platform built with 
 2. Create or join a meeting with a unique meeting link.
 3. Share your screen for enhanced presentations.
 4. Engage with real-time chat during meetings.
-🔗 **Try EvoMeet now:** 👉 [![EvoMeet](https://img.shields.io/badge/Try%20EvoMeet-6A0DAD?style=flat&logo=visualstudiocode&logoColor=white)](https://evomeet.huzaifamushtaq.website/)
+🔗 **Try EvoMeet now:** 👉 [![EvoMeet](https://img.shields.io/badge/Try%20EvoMeet-6A0DAD?style=flat&logo=visualstudiocode&logoColor=white)](https://evomeet.vercel.app/)
 
 
 
